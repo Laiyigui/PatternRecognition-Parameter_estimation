@@ -1,0 +1,9 @@
+文件说明：
+code文件夹：包含本次作业的所有代码
+	ParzenWindow.m：改代码用于绘制不同窗函数下的估计概率函数曲线图
+	CalculateError.m：改代码用于计算估计概率密度函数值与标准概率密度函数值之间的差值、方差、期望值
+	SquareWindow.m：方窗函数
+	GaussianWindow.m：高斯函数
+	ExponentWindow.m：指数函数
+	TriangleWindow.m：三角窗函数
+Parameter_estimation-赖宜贵-2019211249.pdf：作业报告（含编程）
